@@ -2,4 +2,6 @@ python_ml
 *.zip
 *.png
 .vscode
-*/data/
+data/
+.idea/
+.DS_Store
